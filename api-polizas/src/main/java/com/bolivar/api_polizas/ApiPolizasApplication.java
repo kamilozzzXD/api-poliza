@@ -1,0 +1,13 @@
+package com.bolivar.api_polizas;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ApiPolizasApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ApiPolizasApplication.class, args);
+	}
+
+}

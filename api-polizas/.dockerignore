@@ -1,0 +1,26 @@
+# Directorios de construccion local
+target/
+
+# Control de versiones
+.git/
+.gitignore
+.gitattributes
+
+# Wrappers y configuracion de Maven local
+.mvn/
+mvnw
+mvnw.cmd
+
+# Archivos de configuracion de IDEs
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Documentacion local y logs
+HELP.md
+README.md
+*.log
+.DS_Store
+Thumbs.db
